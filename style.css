@@ -46,11 +46,11 @@ hr {
     padding-top: 5px;
 }
 
-#faq {
+#directions {
     padding-top: 15px;
 }
 
-.schedule-card {
+.card {
     background-color: #b6e0ff;
     padding-top: 5px;
     padding-left: 20px;
@@ -60,8 +60,8 @@ hr {
     margin-bottom: 20px;
 }
 
-.schedule-card:hover,
-.schedule-card:focus-visible {
+.card:hover,
+.card:focus-visible {
     box-shadow: 0 8px 18px 0 rgba(45, 169, 253, 0.3);
     transition: transform 200ms ease, box-shadow 200ms ease, background-color 200ms ease;
     transform: translateY(0) scale(0.99);
