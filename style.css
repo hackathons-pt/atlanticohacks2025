@@ -51,6 +51,15 @@ hr {
     padding-bottom: 15px;
 }
 
+#footer {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #040d15;
+    color:#c8e6ff;
+    text-align: center;
+}
+
 .card {
     background-color: #b6e0ff;
     padding-top: 5px;
