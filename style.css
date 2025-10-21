@@ -61,6 +61,12 @@ hr {
     text-align: center;
 }
 
+#buttons {
+    display: flex;
+    margin: 0 auto;
+    gap: 10px;
+}
+
 .card {
     background-color: #b6e0ff;
     padding-top: 5px;
